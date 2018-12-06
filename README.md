@@ -13,7 +13,7 @@ The demo of the burger eating application can be found here.
 Installation
 To run the application locally, first clone this repository with the following command.
 
-git clone git@github.com:angrbrd/eat-da-burger.git
+git clone git@github.com:shamelaq/eat-da-burger.git
 Next, install the application dependencies.
 
 cd eat-da-burger
